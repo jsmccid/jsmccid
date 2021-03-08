@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Josh 👋
+
+
+
 
 <!--
 **jsmccid/jsmccid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+Good reference sites for emoji's:
+- https://gist.github.com/rxaviers/7360908
+- https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6
+- https://github.com/ikatyang/emoji-cheat-sheet
+- https://unicode.org/emoji/charts/full-emoji-list.html
 -->
